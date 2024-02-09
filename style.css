@@ -1,0 +1,46 @@
+.container{
+    width: 1174px;
+
+    background-color: white;
+    
+
+
+
+
+}
+
+.cards{
+    width: 273px;
+    padding: 15px;
+    display: flex;
+    border-radius: 12px;
+    display:inline-block;
+    border: 2px solid blue;
+    margin-left: 80px;
+
+}
+
+.cards img{
+    width: 273px;
+    height: 210px;
+    border-radius:15px;
+  
+}
+
+.cards h2{
+    text-align: center;
+}
+
+
+
+
+
+.link{
+    display: inline-block;
+    text-decoration: none;
+    padding: 8px 8px;
+    border-radius:7px;
+    background-color:aqua;
+    color:#fff;
+
+}
